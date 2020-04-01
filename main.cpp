@@ -10,7 +10,7 @@ int main()
 
 {
 
-      uLCD.printf("106061237\n"); //Default Green on black text
+      uLCD.printf("\n106061237\n"); //Default Green on black text
 
     uLCD.line(0, 0, 127, 0, WHITE);
     uLCD.line(127, 0, 127, 127, WHITE);
